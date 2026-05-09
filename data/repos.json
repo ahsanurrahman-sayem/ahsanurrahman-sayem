@@ -1,0 +1,22 @@
+[
+	{
+		"name": "portfolio",
+		"description": "My personal developer portfolio — auto-styled, GitHub Pages hosted.",
+		"language": "HTML",
+		"stars": 0,
+		"updated_at": "2025-01-01T00:00:00Z",
+		"html_url": "https://github.com/ahsanurrahman-sayem/portfolio",
+		"homepage": "https://ahsanurrahman-sayem.github.io/portfolio",
+		"topics": ["html", "css", "javascript"]
+	},
+	{
+		"name": "example-python-tool",
+		"description": "A CLI utility built in Python for automating repetitive tasks.",
+		"language": "Python",
+		"stars": 2,
+		"updated_at": "2025-03-15T00:00:00Z",
+		"html_url": "https://github.com/ahsanurrahman-sayem/example-python-tool",
+		"homepage": "",
+		"topics": ["python", "cli", "automation"]
+	}
+]
