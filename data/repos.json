@@ -1,21 +1,21 @@
 [
 	{
-		"name": "portfolio",
-		"description": "My personal developer portfolio — auto-styled, GitHub Pages hosted.",
+		"name": "quote",
+		"description": "My personal quote showcasing webapp, Pure HTML,CSS & JS. Hosted on github pages.",
 		"language": "HTML",
 		"stars": 0,
 		"updated_at": "2025-01-01T00:00:00Z",
-		"html_url": "https://github.com/ahsanurrahman-sayem/portfolio",
-		"homepage": "https://ahsanurrahman-sayem.github.io/portfolio",
+		"html_url": "https://github.com/ahsanurrahman-sayem/quote",
+		"homepage": "https://ahsanurrahman-sayem.github.io/quote",
 		"topics": ["html", "css", "javascript"]
 	},
 	{
-		"name": "example-python-tool",
-		"description": "A CLI utility built in Python for automating repetitive tasks.",
+		"name": "github-cli-python",
+		"description": "A CLI utility built in Python for gh tool/github tool..",
 		"language": "Python",
-		"stars": 2,
+		"stars": 0,
 		"updated_at": "2025-03-15T00:00:00Z",
-		"html_url": "https://github.com/ahsanurrahman-sayem/example-python-tool",
+		"html_url": "https://github.com/ahsanurrahman-sayem/github-cli-python",
 		"homepage": "",
 		"topics": ["python", "cli", "automation"]
 	}
